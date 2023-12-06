@@ -1,9 +1,9 @@
 # Password-based-security-system-using-STM32F103C8T6-development-board
 
 Software used:STM32Cube-IDE
-Hardware required:-STM32F103C8T6-development-board,ST-Link programmer,4*4 keypad matrix,16*2 lcd dispaly,leds,buzzer,jumper Wires and Breadboard.
+Hardware required:-STM32F103C8T6-development-board,ST-Link programmer,4 * 4 keypad ,16*2 lcd dispaly,leds,buzzer,jumper Wires and Breadboard.
 
-The System Design Flow:
+The code  WorkFlow:
 
  Initialization:
    - The `SystemClock_Config` function configures the system clock.
